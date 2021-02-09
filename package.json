@@ -1,0 +1,13 @@
+{
+  "name": "ws-sandbox",
+  "version": "1.0.0",
+  "description": "minimal project of websocket with Binance endpoint",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yue Chang",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.3"
+  }
+}
