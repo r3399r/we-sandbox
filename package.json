@@ -8,6 +8,7 @@
   "author": "Yue Chang",
   "license": "ISC",
   "dependencies": {
-    "ws": "^7.4.3"
+    "axios": "^0.25.0",
+    "ws": "^8.4.2"
   }
 }
